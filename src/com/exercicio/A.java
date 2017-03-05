@@ -25,5 +25,9 @@ public class A {
 		this.a3 = a3;
 	}
 	
+	public double soma (){
+		return this.a1 + this.a2;
+	}
+	
 	
 }
