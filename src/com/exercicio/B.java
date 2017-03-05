@@ -18,5 +18,5 @@ public class B {
 		this.b2 = b2;
 	}
 	
-	
+	//Foi mal, esqueci da tag
 }
