@@ -34,8 +34,6 @@ public class A {
 	}
 	
 	
-	
-	
 	public double soma (){
 		return this.a1 + this.a2;
 	}
